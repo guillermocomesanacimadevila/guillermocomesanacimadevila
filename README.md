@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Guillermo | Bioinformatics @University of Bath</h2>
+<h2 align="left">Hi 👋! My name is Guillermo |  Bioinformatics @University of Bath 🧬</h2>
 
 ###
 
