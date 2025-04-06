@@ -1,5 +1,8 @@
 <h2 align="left">Hi 👋! My name is Guillermo |  Bioinformatics @University of Bath 🧬</h2>
 
+- Interested in Deep Learning and Genomic Data Science 🧬 
+- Spain 🇪🇸 -> UK 🇬🇧
+
 ###
 
 <div align="left">
