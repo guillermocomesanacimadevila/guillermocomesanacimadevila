@@ -7,7 +7,7 @@
 
 ---
 
-- 🌱 Currently building **CELLFLOW Pipeline**
+- 🌱 Currently building **CellFate Pipeline**
 - 🔭 Working on **bioinformatics pipelines, ML models, and scalable cloud workflows**
 - 💡 Interests: **AI in genomics, multi-omics integration, causal inference**
 - 🌍 From Spain 🇪🇸 → Based in the UK 🇬🇧
