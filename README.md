@@ -9,7 +9,7 @@
 
 - 🌱 Currently building **EDITS** and **MR-CoPe**
 - 🔭 Working on **bioinformatics pipelines, ML models, and scalable cloud workflows**
-- 💡 Interests: **AI in genomics, multi-omics, causal inference**
+- 💡 Interests: **AI in genomics, multi-omics, and causal inference**
 - 🌍 From Spain 🇪🇸 → Based in the UK 🇬🇧
 - ✉️ Reach me at: ComesanaCimadevilaG@cardiff.ac.uk
   
