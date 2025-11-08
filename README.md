@@ -9,26 +9,10 @@
 
 - 🌱 Currently building **EDITS** and **MR-CoPe**
 - 🔭 Working on **bioinformatics pipelines, ML models, and scalable cloud workflows**
-- 💡 Interests: **AI in genomics, multi-omics integration, causal inference**
+- 💡 Interests: **AI in genomics, multi-omics, causal inference**
 - 🌍 From Spain 🇪🇸 → Based in the UK 🇬🇧
-- ✉️ Reach me at: comesanaguillermo@gmail.com
-
----
-
-### 🛠️ Languages and Tools
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python" style="margin: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="50" alt="R" style="margin: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="50" alt="Bash" style="margin: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="MySQL" style="margin: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5" style="margin: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS3" style="margin: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="Docker" style="margin: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="50" alt="PyTorch" style="margin: 10px;" />
-  <img src="https://github.com/user-attachments/assets/805532d9-fc8b-446f-aac6-933cc4aa6185" height="50" alt="Nextflow" style="margin: 10px;" />
-</p>
-
+- ✉️ Reach me at: ComesanaCimadevilaG@cardiff.ac.uk
+- 
 ---
 
 ### 🔗 Connect with Me
