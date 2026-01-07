@@ -2,7 +2,7 @@
 <h3 align="center">🧬 Bioinformatics @ Cardiff University @ University of Bath</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?fontFira+Code&size=22&pause=1000&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub!;Machine+Learning+%2B+Genomics+%3D;Always+learning+and+building." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?fontFira+Code&size=22&pause=1000&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub!;Machine+Learning+%2B+Genomics;Always+learning+and+building." alt="Typing SVG" />
 </p>
 
 ---
