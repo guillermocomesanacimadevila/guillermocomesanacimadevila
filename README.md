@@ -12,5 +12,3 @@
 - 💡 Interests: **AI in genomics, multi-omics, and causal inference**
 - 🌍 From Spain 🇪🇸 → Based in the UK 🇬🇧
 - ✉️ Reach me at: ComesanaCimadevilaG@cardiff.ac.uk
-  
----
