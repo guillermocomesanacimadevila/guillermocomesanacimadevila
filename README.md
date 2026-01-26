@@ -9,6 +9,6 @@
 
 - 🌱 Currently building an <strong><span style="color:#24B064">nf-core</span>-compatible multi-omics discovery pipeline</strong>
 - 🔭 Working on **bioinformatics pipelines, ML models, and scalable cloud workflows**
-- 💡 Interests: **AI in genomics, multi-omics, and causal inference**
+- 💡 Interests: **ML in genomics, multi-omics, and causal inference**
 - 🌍 From Spain 🇪🇸 → Based in the UK 🇬🇧
 - ✉️ Reach me at: ComesanaCimadevilaG@cardiff.ac.uk
