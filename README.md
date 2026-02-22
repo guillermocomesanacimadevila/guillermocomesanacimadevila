@@ -11,4 +11,4 @@
 - 🔭 Working on **bioinformatics pipelines, ML models, and scalable cloud workflows**
 - 💡 Interests: **ML in genomics, multi-omics, and causal inference**
 - 🌍 From Spain 🇪🇸 → Based in the UK 🇬🇧
-- ✉️ Reach me at: ComesanaCimadevilaG@cardiff.ac.uk
+- ✉️ Reach me at: g.comesanacimadevila@ukdri.ac.uk
