@@ -7,7 +7,7 @@
 
 ---
 
-- 🌱 Currently building an <strong><span style="color:#24B064">nf-core</span>-compatible multi-omics discovery pipeline</strong>
+- 🌱 Currently building an <strong><span style="color:#24B064">nf-core</span>-cis-MR drug discovery pipeline</strong>
 - 🔭 Working on **bioinformatics pipelines, ML models, and scalable cloud workflows**
 - 💡 Interests: **ML in omics, multi-omics, and causal inference for drug discovery**
 - 🌍 From Spain 🇪🇸 → Based in the UK 🇬🇧
