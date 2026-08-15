@@ -11,4 +11,4 @@
 - 🔭 Working on **bioinformatics pipelines, ML models, and scalable cloud workflows**
 - 💡 Interests: **ML in omics, multi-omics, and causal inference for drug discovery**
 - 🌍 From Spain 🇪🇸 → Based in the UK 🇬🇧
-- ✉️ Reach me at: g.comesanacimadevila@ukdri.ac.uk
+- ✉️ Reach me at: g.comesanacimadevila@ukdri.ac.uk or guillermo@meomics.tech
