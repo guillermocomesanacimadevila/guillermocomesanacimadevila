@@ -11,6 +11,5 @@
 - 💊 Built <strong><span style="color:#E8743B">drugMR</span></strong>: Causal inference for drug target discovery
 - 🧬 Working on **genetics of brain disorders**: from GWAS to genes, cell types and drug targets
 - 🤖 **Machine learning** on genetic and omics data
-- 💡 Interests: **machine learning for drug discovery**
 - 🌍 From Spain 🇪🇸 → Based in the UK 🇬🇧
 - ✉️ Reach me at: g.comesanacimadevila@ukdri.ac.uk
